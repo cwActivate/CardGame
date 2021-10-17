@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1634484360783" clover="3.2.0">
+  <project timestamp="1634484360784" name="All files">
+    <metrics statements="56" coveredstatements="47" conditionals="26" coveredconditionals="20" methods="17" coveredmethods="15" elements="99" coveredelements="82" complexity="0" loc="56" ncloc="56" packages="3" files="4" classes="4"/>
+    <package name="CardGame">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/Users/chinwee/Projects/CardGame/App.js">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="CardGame.src.components">
+      <metrics statements="44" coveredstatements="35" conditionals="22" coveredconditionals="18" methods="14" coveredmethods="12"/>
+      <file name="board.tsx" path="/Users/chinwee/Projects/CardGame/src/components/board.tsx">
+        <metrics statements="25" coveredstatements="16" conditionals="4" coveredconditionals="0" methods="9" coveredmethods="7"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="60" count="4" type="stmt"/>
+        <line num="61" count="12" type="stmt"/>
+      </file>
+      <file name="card.tsx" path="/Users/chinwee/Projects/CardGame/src/components/card.tsx">
+        <metrics statements="19" coveredstatements="19" conditionals="18" coveredconditionals="18" methods="5" coveredmethods="5"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="22" type="stmt"/>
+        <line num="31" count="22" type="stmt"/>
+        <line num="33" count="62850" type="stmt"/>
+        <line num="34" count="22" type="stmt"/>
+        <line num="35" count="22" type="stmt"/>
+        <line num="36" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="41" count="22" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="50" count="22" type="stmt"/>
+        <line num="55" count="22" type="stmt"/>
+        <line num="56" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="57" count="3" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+        <line num="60" count="3" type="stmt"/>
+        <line num="63" count="22" type="stmt"/>
+      </file>
+    </package>
+    <package name="CardGame.src.helpers">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="randomizer.tsx" path="/Users/chinwee/Projects/CardGame/src/helpers/randomizer.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="8" count="11" type="stmt"/>
+        <line num="9" count="11" type="stmt"/>
+        <line num="10" count="11" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
